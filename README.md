@@ -1,6 +1,6 @@
 Hello, 
 
-My name is James J. King and I want to believe I am a junior web developer, but a hobbiest is more fitting. I have been working a e-commerce/ social media platform for animal products as well as breed specific content. 
+My name is James J. King and I want to believe I am a junior web developer, but a hobbiest is more fitting. I have been working on an e-commerce/ social media platform for animal products as well as breed specific content. 
 
 I have been educating myself with Udemy and freecodecamp.com, which both have been tremendously useful in my pursuit to gaining my Masters in CS. Still a lot of work to go! 
 
